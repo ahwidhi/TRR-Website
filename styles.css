@@ -165,7 +165,7 @@ font-size: 78%;
 /*--nav--*/
 #nav{
     position: absolute;
-    top: 3%;
+    top: 2%;
     right: 4%;
     display: flex;
     justify-content: space-between;
